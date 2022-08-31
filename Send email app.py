@@ -18,14 +18,14 @@ import smtplib
 # In[52]:
 
 
-email_sender = 'tumidakxxl@gmail.com'
-email_password = 'biwjywwphzwnodvn'
+email_sender = ''
+email_password = ''
 
 
 # In[53]:
 
 
-email_receiver = 'sihayona@gmail.com'
+email_receiver = ''
 
 
 # In[54]:
